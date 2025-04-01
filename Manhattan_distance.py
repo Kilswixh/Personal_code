@@ -1,3 +1,4 @@
+# Written by Calvin Mac Phillips
 point_a = [5.5, 10.2]
 point_b = [-8.0, 4.6]
 
